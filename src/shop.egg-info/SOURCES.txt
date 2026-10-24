@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/application/__init__.py
+src/application/config.py
+src/application/exporters.py
+src/application/models.py
+src/application/repositories.py
+src/application/services.py
+src/shop.egg-info/PKG-INFO
+src/shop.egg-info/SOURCES.txt
+src/shop.egg-info/dependency_links.txt
+src/shop.egg-info/requires.txt
+src/shop.egg-info/top_level.txt
